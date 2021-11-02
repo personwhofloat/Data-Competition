@@ -1,5 +1,5 @@
-train: ../../input/test-v1/data/images/train  # relative path to train images
-val: ../../input/test-v1/data/images/val  # relative path to val images
+train: ../../input/test-v3/data/images/train  # relative path to train images
+val: ../../input/test-v3/data/images/val  # relative path to val images
 test: ./dataset/images/public_test  # relative path to public test images
 
 # Classes
